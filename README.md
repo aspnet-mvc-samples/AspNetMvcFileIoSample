@@ -62,3 +62,6 @@ public ActionResult Index()
     return View();
 }
 ```
+
+## スクリーンショット
+![screenshot](https://raw.githubusercontent.com/aspnet-mvc-samples/AspNetMvcFileIoSample/master/screenshots/screenshot.png)
